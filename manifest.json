@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Page Title Extractor",
+  "version": "1.0",
+  "description": "Instantly extracts and displays the active webpage title.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
